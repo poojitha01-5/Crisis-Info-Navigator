@@ -1,0 +1,3 @@
+"""
+CrisisInfo Navigator project package.
+"""
