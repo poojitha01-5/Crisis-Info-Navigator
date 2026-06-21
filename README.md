@@ -211,10 +211,6 @@ response = run_agent("How should I prepare for a wildfire?")
 print(response)
 ```
 
-## Screenshots
-
-*[Add screenshots of the CLI interface showing example interactions]*
-
 ## AI Agent Concepts Demonstrated
 
 This project implements several core AI agent principles taught in the Google × Kaggle AI Agents Intensive Course:
