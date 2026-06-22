@@ -114,8 +114,7 @@ sequenceDiagram
 
 ```
 Crisis-Info-Navigator-main/
-├── README.md
-└── project/
+    ├── README.md
     ├── __init__.py
     ├── app.py                    # CLI interface for interactive chat
     ├── main_agent.py             # Main orchestration and agent coordination
